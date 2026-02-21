@@ -76,6 +76,28 @@
             // different developers work on different libraries 
             // help maintenanse project easly
             #endregion
+
+            #region Cinema_System
+            //Ticket t1 = new Ticket();
+            //Seat s1 = new Seat();
+            //Console.Write("Enter Movie Name : ");
+            //t1.MovieName = Console.ReadLine();
+            //Console.Write("Enter Ticket type (standard = 0 , VIP = 1 , IMAX = 2): ");
+            //t1.Type = (TicketType)Enum.Parse(typeof(TicketType), Console.ReadLine());
+            //Console.Write("Enter Seat Row (A,B,C,....) : ");
+            //s1.Row = Console.ReadLine();
+            //Console.Write("Enter Seat Number : ");
+            //s1.Number = int.Parse(Console.ReadLine());
+            //Console.Write("Enter Discount Amount : ");
+            //double discountAmount = double.Parse(Console.ReadLine());
+
+            //t1.seat = s1;
+
+            //t1.PrintTicket();
+
+
+            //t1.ApplyDiscount(ref discountAmount); 
+            #endregion   
         }
     }
 }

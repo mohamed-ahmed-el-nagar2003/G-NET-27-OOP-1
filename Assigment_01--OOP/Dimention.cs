@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assigment_01__OOP
 {
-    internal class Dimention
+    internal struct Dimention
     {
         public Double X { get; set; }
         public Double Y { get; set; }
