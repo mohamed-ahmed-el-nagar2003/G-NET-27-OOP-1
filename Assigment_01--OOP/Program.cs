@@ -65,6 +65,17 @@
           7-  Create objects and call methods.
             */
             #endregion
+
+            #region Q-04
+            // Q4 : What is a class library? Why do we use class libraries?
+
+            //Class Library : is Project contain group of classes to reusable them in any other Projects but don't have console .
+            // We use Class Library becouse :
+            //orgnization code 
+            // reusable code 
+            // different developers work on different libraries 
+            // help maintenanse project easly
+            #endregion
         }
     }
 }
