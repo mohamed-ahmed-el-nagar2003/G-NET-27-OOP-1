@@ -29,6 +29,23 @@
             //Console.WriteLine($"{dim01.X}");
             //Console.WriteLine($"{dim02.X}");
             #endregion
+
+            #region Q-02
+            //Q2 : Explain the difference between public and private access modifiers with an example. 
+
+
+            /*
+            Private : The member is only accessible within the class or struct it is defined in.
+                      It cannot be accessed from outside the class.
+                      ------------- but-----------
+           Public  : The member is accessible from anywhere in the application,
+                     both within the same assembly (project) and from other assemblies.
+            */
+
+            // Console.WriteLine($"{st01.Name}");
+            //we can print name inside or outside class becouse is Public 
+            // but Password we cant't use it outside the class becouse it Private
+            #endregion
         }
     }
 }
