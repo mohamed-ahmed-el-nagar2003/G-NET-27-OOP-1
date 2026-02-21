@@ -46,6 +46,25 @@
             //we can print name inside or outside class becouse is Public 
             // but Password we cant't use it outside the class becouse it Private
             #endregion
+
+            #region Q-03
+            //Q3 : Describe the steps to create and use a class library in Visual    Studio.
+            /*
+           1- Create a Class Library project.
+
+            2-  Add public classes and methods.
+
+            3-  Build the library to generate DLL.
+
+            4-  Create another project (e.g., Console App).
+
+          5-   Add reference to the Class Library.
+
+           6-  Use the classes by importing the namespace.
+
+          7-  Create objects and call methods.
+            */
+            #endregion
         }
     }
 }
